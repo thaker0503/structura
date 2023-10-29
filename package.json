@@ -1,6 +1,7 @@
 {
   "name": "structura",
   "displayName": "Structura",
+  "publisher": "YatharthThaker",
   "description": "This ingenious creation meticulously crafts an intricate network of directories and corresponding files, mirroring the very essence of your app's folder structure.",
   "version": "0.0.1",
   "engines": {
@@ -54,5 +55,9 @@
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4",
     "@vscode/test-electron": "^2.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaker0503/structura.git"
   }
 }
