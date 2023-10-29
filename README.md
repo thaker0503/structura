@@ -1,8 +1,6 @@
-**_Created with [AIPRM Prompt "Human-like Rewriter - V1.6"](https://www.aiprm.com/prompts/copywriting/writing/1785970025560268800/)_**
-
 # Structura - VSCode Extension
 
-Welcome to Structura, your companion in crafting well-organized React applications! 
+Welcome to Structura, your companion in crafting well-organized React applications!
 
 ## Overview
 
@@ -40,6 +38,6 @@ If you're passionate about enhancing developer experiences, consider contributin
 
 ## License
 
-Structura is licensed under the [MIT License](LICENSE.md), ensuring that it remains open-source and accessible to developers worldwide.
+Structura is licensed under the [MIT License](hhttps://github.com/thaker0503/structura/blob/main/LICENSE.txt), ensuring that it remains open-source and accessible to developers worldwide.
 
 Thank you for choosing Structura to elevate your React app development. Happy coding!
