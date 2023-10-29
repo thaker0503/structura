@@ -3,10 +3,11 @@
   "displayName": "Structura",
   "publisher": "YatharthThaker",
   "description": "This ingenious creation meticulously crafts an intricate network of directories and corresponding files, mirroring the very essence of your app's folder structure.",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.83.0"
   },
+  "icon": "images/logo.png",
   "categories": [
     "Other"
   ],
