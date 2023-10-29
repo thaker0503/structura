@@ -89,6 +89,8 @@ export function activate(context: vscode.ExtensionContext) {
         }
       });
 
+      // TODO: Create next version of the extension with updates of well defined folder structure of its own
+
       vscode.window.showInformationMessage(
         `React folder structure created in ${folderPath}`
       );
